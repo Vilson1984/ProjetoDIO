@@ -36,4 +36,4 @@
 [Sorteio Teimosinha](https://github.com/Vilson1984/teimosinha_app) |
 [Jogo da velha](https://github.com/Vilson1984/jogo-da-velha) |
 [Lista de tarefas (em Rails)](https://github.com/Vilson1984/Lista-de-tarefas_Rails) | 
-[Espectro Poítico](https://github.com/Vilson1984/quiz-espectro-politico) |
+[Espectro Político](https://github.com/Vilson1984/quiz-espectro-politico) |
